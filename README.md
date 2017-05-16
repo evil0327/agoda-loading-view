@@ -1,7 +1,6 @@
 # agoda-loading-view
+agoda-loading-view is imitative of the loading effection of [Agoda App][agoda]. <br />
 
-## Introduction
-agoda-loading-view is imitative of the loading effection of [Agoda App][agoda]. 
 ## Demo
 ![Demo](https://media.giphy.com/media/l4FGGJ49q81c9F1Nm/giphy.gif "Demo")
 ## Usage
