@@ -5,6 +5,7 @@ agoda-loading-view is imitative of the loading effection of [Agoda App][agoda].
 ## Demo
 ![Demo](https://media.giphy.com/media/l4FGGJ49q81c9F1Nm/giphy.gif "Demo")
 ## Usage
+### Code
 ```Java
 //Usage of loading dialog
 public class MainActivity extends AppCompatActivity {
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+### Layout
 ```XML
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
