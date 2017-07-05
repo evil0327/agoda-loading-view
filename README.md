@@ -3,10 +3,6 @@ agoda-loading-view is imitative of the loading effection of [Agoda App][agoda]. 
 
 ## Demo
 ![Demo](https://media.giphy.com/media/l4FGGJ49q81c9F1Nm/giphy.gif "Demo")
-## Usage
-### Gradle
-```groovy
-compile 'ellison.app.lib:agodaloadingview:1.0.0'
 ```
 ### Code
 ```Java
